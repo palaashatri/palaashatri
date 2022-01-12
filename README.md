@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **palaashatri/palaashatri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```
+$ whois palaashatri
+Querying 'palaashatri' on 🌐 ...
+
+[Name]                    Palaash Atri
+[Pronouns]                He/Him
+[Specialization]          Associate Engineer @ Larsen & Toubro Technology Services Limited (LTTS)
+
+Profiles : 
+    [GitHub]              https://github.com/palaashatri
+    [GitLab]              https://gitlab.com/palaashatri
+    [Twitter]             https://twitter.com/palaashatri
+    [LinkedIn]            https://linkedin.com/in/palaasha
+    [YouTube]             https://www.youtube.com/c/PalaashAtri
+  
+Tools and Technologies : 
+   [Languages]            JavaScript, Python3, Java
+   [Tools]                Docker, Kubernetes, Jenkins, Hyperledger Fabric, Node.js, Spring Boot, MySQL, MongoDB
+   [Familiar]             C/C++, Powershell, Bash
+   [Preferred Editors]    Visual Studio Code, vim
+   
+[i use arch btw]          Verified ✔
+```
