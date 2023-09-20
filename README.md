@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 September 2023 - To: 18 September 2023
+From: 12 September 2023 - To: 19 September 2023
 
-Other      1 hr 10 mins    ████████████░░░░░░░░░░░░░   47.51 %
-Bash       27 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.27 %
-YAML       18 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.72 %
-Markdown   13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 %
-XML        5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
+Other      1 hr 12 mins    █████████████▒░░░░░░░░░░░   52.98 %
+Bash       29 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.64 %
+YAML       19 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.07 %
+Markdown   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+Java       4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
 ```
 
 <!--END_SECTION:waka-->
