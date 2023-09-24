@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 September 2023 - To: 22 September 2023
+From: 16 September 2023 - To: 23 September 2023
 
 Other      4 hrs 9 mins    ███████████████▒░░░░░░░░░   61.85 %
 Bash       1 hr 15 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.77 %
