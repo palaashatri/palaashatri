@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 September 2023 - To: 30 September 2023
+From: 24 September 2023 - To: 01 October 2023
 
 Docker     1 hr 8 mins     █████████▓░░░░░░░░░░░░░░░   39.13 %
 Other      40 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.97 %
