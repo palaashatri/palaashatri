@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 October 2023 - To: 19 October 2023
+From: 13 October 2023 - To: 20 October 2023
 
-PowerShell    34 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.98 %
-Other         25 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.25 %
-Stan          16 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 %
-C#            15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.02 %
-Python        11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 %
+PowerShell    34 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.12 %
+Other         25 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.08 %
+Stan          16 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.89 %
+C#            15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.52 %
+JSON          11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 %
 ```
 
 <!--END_SECTION:waka-->
