@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 October 2023 - To: 31 October 2023
+From: 25 October 2023 - To: 01 November 2023
 
-Smarty       1 hr 29 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.99 %
-HTML         1 hr 25 mins    █████░░░░░░░░░░░░░░░░░░░░   19.87 %
-Java         1 hr 18 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.44 %
-Markdown     43 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.10 %
-YAML         41 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 %
+HTML         1 hr 25 mins    █████░░░░░░░░░░░░░░░░░░░░   19.96 %
+Java         1 hr 18 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.52 %
+Smarty       1 hr 17 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.24 %
+Markdown     43 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.15 %
+YAML         33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
 ```
 
 <!--END_SECTION:waka-->
