@@ -27,13 +27,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 November 2023 - To: 09 November 2023
+From: 03 November 2023 - To: 10 November 2023
 
-Markdown     2 hrs 25 mins   ███████▒░░░░░░░░░░░░░░░░░   29.77 %
-YAML         1 hr 20 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.47 %
-TypeScript   46 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.63 %
-Java         40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
-XML          33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
+Markdown     1 hr 40 mins    █████████████░░░░░░░░░░░░   52.49 %
+Java         49 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.66 %
+XML          33 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.49 %
+Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+Bash         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
 ```
 
 <!--END_SECTION:waka-->
