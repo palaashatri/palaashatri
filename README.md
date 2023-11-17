@@ -27,13 +27,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 November 2023 - To: 14 November 2023
+From: 09 November 2023 - To: 16 November 2023
 
-JavaScript   1 hr 10 mins    ███████████████▓░░░░░░░░░   63.03 %
-Other        31 mins         ███████░░░░░░░░░░░░░░░░░░   28.64 %
-Java         8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Other        1 hr 19 mins    ███████░░░░░░░░░░░░░░░░░░   28.30 %
+JavaScript   1 hr 19 mins    ███████░░░░░░░░░░░░░░░░░░   28.29 %
+Java         34 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 %
+CSS          32 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.73 %
+HTML         24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
 ```
 
 <!--END_SECTION:waka-->
