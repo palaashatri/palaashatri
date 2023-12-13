@@ -27,13 +27,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 December 2023 - To: 10 December 2023
+From: 04 December 2023 - To: 11 December 2023
 
-Other        59 mins         ████████▓░░░░░░░░░░░░░░░░   35.20 %
-Docker       36 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.81 %
-XML          24 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.51 %
-Java         14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 %
-Python       10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
+Bash     56 mins         ███████▓░░░░░░░░░░░░░░░░░   30.78 %
+Other    40 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.90 %
+Python   39 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.29 %
+XML      21 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.45 %
+Docker   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
 ```
 
 <!--END_SECTION:waka-->
