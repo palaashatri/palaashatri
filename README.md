@@ -27,13 +27,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 December 2023 - To: 18 December 2023
+From: 12 December 2023 - To: 19 December 2023
 
-Bash       1 hr 58 mins    ███████▓░░░░░░░░░░░░░░░░░   30.92 %
-Docker     1 hr 48 mins    ███████░░░░░░░░░░░░░░░░░░   28.51 %
-XML        1 hr 26 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.60 %
-YAML       30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
-Java       27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
+Docker     2 hrs 43 mins   ███████████▒░░░░░░░░░░░░░   45.06 %
+Bash       1 hr 16 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.06 %
+XML        1 hr 14 mins    █████░░░░░░░░░░░░░░░░░░░░   20.59 %
+Java       27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 %
+YAML       13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
 ```
 
 <!--END_SECTION:waka-->
