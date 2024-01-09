@@ -27,13 +27,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 December 2023 - To: 07 January 2024
+From: 01 January 2024 - To: 08 January 2024
 
-Java       51 mins         ██████████████▒░░░░░░░░░░   56.85 %
-Other      19 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.34 %
-YAML       9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 %
-Markdown   6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
-JSON       2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+Java       35 mins         ████████████▓░░░░░░░░░░░░   50.05 %
+Other      16 mins         ██████░░░░░░░░░░░░░░░░░░░   23.60 %
+YAML       9 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.77 %
+Markdown   6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 %
+JSON       2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
 ```
 
 <!--END_SECTION:waka-->
