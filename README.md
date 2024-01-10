@@ -27,13 +27,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 January 2024 - To: 08 January 2024
+From: 02 January 2024 - To: 09 January 2024
 
-Java       35 mins         ████████████▓░░░░░░░░░░░░   50.05 %
-Other      16 mins         ██████░░░░░░░░░░░░░░░░░░░   23.60 %
-YAML       9 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.77 %
-Markdown   6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 %
-JSON       2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
