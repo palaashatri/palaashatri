@@ -27,9 +27,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 January 2024 - To: 12 January 2024
+From: 06 January 2024 - To: 13 January 2024
 
-No activity tracked
+Java              7 mins          ███████████████████████░░   91.85 %
+XML               0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
+Java Properties   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
 ```
 
 <!--END_SECTION:waka-->
