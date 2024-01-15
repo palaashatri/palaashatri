@@ -27,11 +27,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 January 2024 - To: 13 January 2024
+From: 07 January 2024 - To: 14 January 2024
 
-Java              7 mins          ███████████████████████░░   91.85 %
-XML               0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
-Java Properties   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+Python            13 mins         ███████████████░░░░░░░░░░   60.59 %
+Java              7 mins          █████████░░░░░░░░░░░░░░░░   36.20 %
+XML               0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+Java Properties   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 ```
 
 <!--END_SECTION:waka-->
