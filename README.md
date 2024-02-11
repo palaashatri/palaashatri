@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 February 2024 - To: 09 February 2024
+From: 03 February 2024 - To: 10 February 2024
 
 YAML    2 hrs 56 mins   ████████████████████▓░░░░   83.19 %
 Bash    23 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 %
