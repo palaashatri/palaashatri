@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 March 2024 - To: 12 March 2024
+From: 06 March 2024 - To: 13 March 2024
 
 Java              2 hrs 57 mins   ███████████████▒░░░░░░░░░   61.59 %
 Bash              23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 %
