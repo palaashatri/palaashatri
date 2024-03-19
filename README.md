@@ -27,13 +27,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 March 2024 - To: 17 March 2024
+From: 11 March 2024 - To: 18 March 2024
 
-YAML              1 hr 9 mins     ███████████░░░░░░░░░░░░░░   43.53 %
-Bash              24 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.10 %
-XML               22 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.13 %
-Other             21 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.56 %
-Markdown          7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
+YAML       1 hr 13 mins    ███████████░░░░░░░░░░░░░░   44.35 %
+XML        28 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.13 %
+Bash       24 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.64 %
+Other      12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
+Java       10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
 ```
 
 <!--END_SECTION:waka-->
