@@ -13,7 +13,7 @@ You can find me on LinkedIn at: https://www.linkedin.com/in/palaasha/
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 March 2024 - To: 07 April 2024
+From: 01 April 2024 - To: 08 April 2024
 
 Docker     7 mins          ██████████▓░░░░░░░░░░░░░░   43.20 %
 JSON       6 mins          █████████▓░░░░░░░░░░░░░░░   38.55 %
