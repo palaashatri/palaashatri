@@ -13,7 +13,7 @@ You can find me on LinkedIn at: https://www.linkedin.com/in/palaasha/
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 April 2024 - To: 10 April 2024
+From: 04 April 2024 - To: 11 April 2024
 
 Python       3 mins          ████████████░░░░░░░░░░░░░   47.83 %
 INI          1 min           ██████░░░░░░░░░░░░░░░░░░░   23.47 %
