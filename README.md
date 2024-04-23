@@ -13,7 +13,7 @@ You can find me on LinkedIn at: https://www.linkedin.com/in/palaasha/
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 April 2024 - To: 21 April 2024
+From: 15 April 2024 - To: 22 April 2024
 
 C++          15 mins         █████████████████████▓░░░   86.67 %
 JSON         1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
