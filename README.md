@@ -13,9 +13,13 @@ You can find me on LinkedIn at: https://www.linkedin.com/in/palaasha/
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 April 2024 - To: 04 May 2024
+From: 28 April 2024 - To: 05 May 2024
 
-No activity tracked
+PowerShell   4 mins          ███████████████▒░░░░░░░░░   61.37 %
+Other        2 mins          █████████░░░░░░░░░░░░░░░░   35.90 %
+Bash         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+Batchfile    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
