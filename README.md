@@ -13,7 +13,7 @@ You can find me on LinkedIn at: https://www.linkedin.com/in/palaasha/
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 April 2024 - To: 05 May 2024
+From: 29 April 2024 - To: 06 May 2024
 
 PowerShell   4 mins          ███████████████▒░░░░░░░░░   61.37 %
 Other        2 mins          █████████░░░░░░░░░░░░░░░░   35.90 %
