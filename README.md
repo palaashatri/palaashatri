@@ -13,13 +13,13 @@ You can find me on LinkedIn at: https://www.linkedin.com/in/palaasha/
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 May 2024 - To: 10 May 2024
+From: 04 May 2024 - To: 11 May 2024
 
-Python       58 mins         █████████▒░░░░░░░░░░░░░░░   37.24 %
-YAML         54 mins         ████████▓░░░░░░░░░░░░░░░░   35.19 %
-PowerShell   24 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.66 %
-Other        11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
-Batchfile    5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
+Python       3 hrs 32 mins   ████████████████▓░░░░░░░░   66.20 %
+YAML         55 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.37 %
+PowerShell   24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
+Other        14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
+Batchfile    5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
 ```
 
 <!--END_SECTION:waka-->
