@@ -13,13 +13,13 @@ You can find me on LinkedIn at: https://www.linkedin.com/in/palaasha/
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 May 2024 - To: 21 May 2024
+From: 15 May 2024 - To: 22 May 2024
 
-Python       19 hrs 58 mins  ████████████████▓░░░░░░░░   67.07 %
-Docker       7 hrs 44 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.02 %
-Bash         1 hr 12 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
-Other        31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
-YAML         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Python       16 hrs 29 mins  ████████████▓░░░░░░░░░░░░   51.16 %
+Docker       10 hrs 20 mins  ████████░░░░░░░░░░░░░░░░░   32.08 %
+Bash         3 hrs 13 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.03 %
+JSON         1 hr 22 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
+Other        29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
 ```
 
 <!--END_SECTION:waka-->
