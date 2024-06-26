@@ -13,11 +13,11 @@ You can find me on LinkedIn at: https://www.linkedin.com/in/palaasha/
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 June 2024 - To: 23 June 2024
+From: 17 June 2024 - To: 24 June 2024
 
-Bash     14 hrs 46 mins  █████████████████████▓░░░   87.10 %
-Other    1 hr 33 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.17 %
-Docker   37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+Bash     13 hrs 27 mins  ███████████████████████░░   92.11 %
+Docker   37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+Other    31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
 ```
 
 <!--END_SECTION:waka-->
