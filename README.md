@@ -13,7 +13,7 @@ You can find me on LinkedIn at: https://www.linkedin.com/in/palaasha/
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 June 2024 - To: 06 July 2024
+From: 30 June 2024 - To: 07 July 2024
 
 Python       15 hrs 29 mins  ████████████████████▒░░░░   80.78 %
 Bash         2 hrs 48 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.59 %
