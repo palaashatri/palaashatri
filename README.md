@@ -13,7 +13,7 @@ You can find me on LinkedIn at: https://www.linkedin.com/in/palaasha/
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 August 2024 - To: 17 August 2024
+From: 11 August 2024 - To: 18 August 2024
 
 Other        22 hrs 29 mins  ███████████████████░░░░░░   75.76 %
 Python       3 hrs 29 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.77 %
