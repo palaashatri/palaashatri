@@ -1,6 +1,6 @@
 ### Palaash Atri
 
-Currently part of the SDET-QA team for Azul Zing (Platform Prime) and CNVM. 
+Currently Quality Engineer I at Azul for Azul Platform Prime team, working on Azul Zing JVM. 
 
 Previously, Engineer at L&T Technology Services, working as a Backend Engineer for Halliburton on DecisionSpace (DS365.ai) Platform team, building Java SDKs, microservices and Kubernetes automation, validation and deployment tools using Python.
 
