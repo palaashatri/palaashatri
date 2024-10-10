@@ -13,13 +13,13 @@ You can find me on LinkedIn at: https://www.linkedin.com/in/palaasha/
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 September 2024 - To: 07 October 2024
+From: 01 October 2024 - To: 08 October 2024
 
-Other        46 hrs 48 mins  █████████████████████▒░░░   85.58 %
-Java         2 hrs 36 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
-Bash         1 hr 48 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
-Python       1 hr 45 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
-Org          1 hr 40 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+Other    46 hrs 57 mins  ██████████████████████▓░░   90.46 %
+Java     2 hrs 35 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
+Org      1 hr 40 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+Bash     26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+Python   12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
