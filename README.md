@@ -13,10 +13,10 @@ You can find me on LinkedIn at: https://www.linkedin.com/in/palaasha/
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 November 2024 - To: 07 December 2024
+From: 01 December 2024 - To: 08 December 2024
 
-Other   49 hrs 19 mins  █████████████████▒░░░░░░░   69.54 %
-Groff   21 hrs 33 mins  ███████▓░░░░░░░░░░░░░░░░░   30.39 %
+Other   48 hrs 45 mins  █████████████████▒░░░░░░░   69.20 %
+Groff   21 hrs 39 mins  ███████▓░░░░░░░░░░░░░░░░░   30.73 %
 Bash    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
