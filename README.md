@@ -1,15 +1,24 @@
-### Palaash Atri
+```sh
+> $ whoami
 
-Currently Quality Engineer I at Azul for Azul Platform Prime team, working on Azul Zing JVM. 
+# Palaash Atri
+- [Current]
+    - Quality Engineer - I at Azul, for Azul Platform Prime (Zing JDK and OptHub Cloud-Native Compiler)
+- [Previous]
+    - Engineer at L&T Technology Services :
+        Backend Engineer for Halliburton on DecisionSpace (DS365.ai) Platform team,
+        building Java SDKs, microservices and Kubernetes automation,
+        validation and deployment tools using Python
 
-Previously, Engineer at L&T Technology Services, working as a Backend Engineer for Halliburton on DecisionSpace (DS365.ai) Platform team, building Java SDKs, microservices and Kubernetes automation, validation and deployment tools using Python.
+- [Tools]
+    - macOS, Arch Linux
+    - Visual Studio Code
+    - C++, Java, Python3
 
-I speak C++, Java, JavaScript & Python 3.
+- [Links]
+    - [LinkedIn] : https://linkedin.com/in/palaasha 
 
-I prefer Windows, but I work on macOS and Linux. The only Linux distro I prefer working on is Arch btw.
-
-You can find me on LinkedIn at: https://www.linkedin.com/in/palaasha/
-
+```
 <!--START_SECTION:waka-->
 
 ```txt
