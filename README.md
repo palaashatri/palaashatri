@@ -22,10 +22,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 December 2024 - To: 06 January 2025
+From: 31 December 2024 - To: 07 January 2025
 
-Bash    43 hrs 3 mins   ██████████████████▓░░░░░░   74.13 %
-Other   15 hrs 1 min    ██████▒░░░░░░░░░░░░░░░░░░   25.87 %
+Bash     45 hrs 53 mins  █████████████████▓░░░░░░░   70.96 %
+Other    18 hrs 2 mins   ███████░░░░░░░░░░░░░░░░░░   27.90 %
+Python   31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+Java     12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
