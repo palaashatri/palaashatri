@@ -22,13 +22,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 January 2025 - To: 25 January 2025
+From: 19 January 2025 - To: 26 January 2025
 
-Other        64 hrs 50 mins  ██████████████████████░░░   88.33 %
-Bash         4 hrs 49 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
-Python       3 hrs 44 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
+Other        73 hrs 20 mins  ███████████████████████▒░   93.36 %
+Python       3 hrs 8 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
+Bash         2 hrs 3 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
 Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
