@@ -22,12 +22,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 January 2025 - To: 02 February 2025
+From: 27 January 2025 - To: 03 February 2025
 
-Other        84 hrs 39 mins  ████████████████████████▓   98.95 %
-Bash         53 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Other   84 hrs 25 mins  ████████████████████████▓   99.30 %
+Bash    35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+Text    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
