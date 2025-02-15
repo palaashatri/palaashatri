@@ -22,10 +22,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 February 2025 - To: 12 February 2025
+From: 06 February 2025 - To: 13 February 2025
 
-Other   75 hrs 5 mins   ████████████████████████▒   97.97 %
-Bash    1 hr 33 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+Other          74 hrs 38 mins  ████████████████████████░   96.28 %
+Bash           2 hrs 52 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+Image (jpeg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Text           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
