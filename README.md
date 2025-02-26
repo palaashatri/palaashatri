@@ -22,12 +22,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 February 2025 - To: 23 February 2025
+From: 17 February 2025 - To: 24 February 2025
 
-Other   69 hrs 18 mins  █████████████████████████   99.52 %
-Bash    20 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-Groff   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Text    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Other        68 hrs 21 mins  ████████████████████████▒   97.99 %
+Markdown     43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+Bash         40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
