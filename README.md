@@ -22,13 +22,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 February 2025 - To: 07 March 2025
+From: 02 March 2025 - To: 09 March 2025
 
-Other      58 hrs 25 mins  █████████████████░░░░░░░░   68.02 %
-Python     13 hrs 41 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.93 %
-Markdown   8 hrs 49 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.27 %
-Io         4 hrs 21 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
-Bash       36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+Other      74 hrs 28 mins  █████████████████▓░░░░░░░   71.18 %
+Python     13 hrs 44 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.13 %
+Markdown   11 hrs 17 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.79 %
+Io         2 hrs 40 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+Bash       2 hrs 27 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
 ```
 
 <!--END_SECTION:waka-->
