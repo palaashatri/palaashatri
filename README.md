@@ -22,13 +22,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 March 2025 - To: 14 March 2025
+From: 08 March 2025 - To: 15 March 2025
 
-Other      81 hrs 3 mins   ██████████████████████▒░░   89.07 %
-Bash       4 hrs 34 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
-Python     2 hrs 51 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
-Markdown   2 hrs 27 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
-JSON       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Other      76 hrs 55 mins  ██████████████████████▓░░   90.92 %
+Bash       4 hrs 35 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
+Python     2 hrs 52 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
+Markdown   9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+JSON       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
