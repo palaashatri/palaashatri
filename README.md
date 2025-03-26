@@ -22,11 +22,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 March 2025 - To: 23 March 2025
+From: 18 March 2025 - To: 25 March 2025
 
-Other   58 hrs 40 mins  ████████████████░░░░░░░░░   64.33 %
-HTML    18 hrs 54 mins  █████▒░░░░░░░░░░░░░░░░░░░   20.74 %
-Java    13 hrs 36 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.93 %
+Other    63 hrs 37 mins  █████████████████▒░░░░░░░   69.21 %
+HTML     18 hrs 54 mins  █████░░░░░░░░░░░░░░░░░░░░   20.57 %
+Java     7 hrs 12 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
+Bash     2 hrs 6 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+Python   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
