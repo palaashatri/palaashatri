@@ -19,6 +19,9 @@
     - [LinkedIn] : https://linkedin.com/in/palaasha 
 
 ```
+![image](https://github.com/user-attachments/assets/432a487f-5281-46e3-b10a-cef67bd93a3b)
+
+
 <!--START_SECTION:waka-->
 
 ```txt
