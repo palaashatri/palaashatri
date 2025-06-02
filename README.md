@@ -26,12 +26,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 May 2025 - To: 30 May 2025
+From: 24 May 2025 - To: 31 May 2025
 
-Other         88 hrs 34 mins  █████████████████████████   99.70 %
-XML           13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-Java          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-TradingView   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Other   79 hrs 23 mins  █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
