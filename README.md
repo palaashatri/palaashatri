@@ -26,10 +26,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 June 2025 - To: 09 June 2025
+From: 03 June 2025 - To: 10 June 2025
 
-Other   84 hrs 51 mins  ███████████████████████▓░   94.98 %
-Java    4 hrs 28 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
+Other   83 hrs 21 mins  ███████████████████████░░   92.39 %
+Java    6 hrs 52 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
 ```
 
 <!--END_SECTION:waka-->
