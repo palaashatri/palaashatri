@@ -26,12 +26,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 June 2025 - To: 19 June 2025
+From: 13 June 2025 - To: 20 June 2025
 
-Other     111 hrs 28 mins █████████████████████████   99.99 %
-Java      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Treetop   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Prolog    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Other   115 hrs 1 min   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
