@@ -22,11 +22,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 June 2025 - To: 27 June 2025
+From: 21 June 2025 - To: 28 June 2025
 
-Other   73 hrs 26 mins  ███████████████████████░░   91.37 %
-Java    6 hrs 55 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 %
-Groff   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Other   73 hrs 33 mins  ██████████████████████▓░░   91.10 %
+Java    7 hrs 9 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 %
+Groff   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
