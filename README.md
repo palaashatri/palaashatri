@@ -25,11 +25,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 June 2025 - To: 01 July 2025
+From: 25 June 2025 - To: 02 July 2025
 
-Other   80 hrs 49 mins  ████████████████████████░   96.31 %
-Java    2 hrs 58 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
-Groff   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Other   86 hrs 47 mins  ███████████████████████▒░   92.99 %
+Groff   3 hrs 34 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
+Java    2 hrs 58 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
 ```
 
 <!--END_SECTION:waka-->
