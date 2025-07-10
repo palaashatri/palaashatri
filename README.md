@@ -25,10 +25,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 June 2025 - To: 07 July 2025
+From: 01 July 2025 - To: 08 July 2025
 
-Other   96 hrs 26 mins  ████████████████████▓░░░░   83.17 %
-Groff   19 hrs 30 mins  ████▒░░░░░░░░░░░░░░░░░░░░   16.83 %
+Other   101 hrs 35 mins █████████████████████░░░░   83.39 %
+Groff   20 hrs 14 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.61 %
 ```
 
 <!--END_SECTION:waka-->
