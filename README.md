@@ -25,9 +25,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 September 2025 - To: 16 September 2025
+From: 10 September 2025 - To: 17 September 2025
 
-Other   91 hrs 45 mins  █████████████████████████   100.00 %
+Other   91 hrs 47 mins  █████████████████████████   99.95 %
+Groff   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
