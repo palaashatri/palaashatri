@@ -25,10 +25,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 September 2025 - To: 02 October 2025
+From: 26 September 2025 - To: 03 October 2025
 
-Other      92 hrs 39 mins  █████████████████████████   99.59 %
-Markdown   22 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+Other      88 hrs 21 mins  █████████████████████████   99.38 %
+Markdown   22 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Groff      10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
