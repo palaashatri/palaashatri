@@ -25,13 +25,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 October 2025 - To: 19 October 2025
+From: 13 October 2025 - To: 20 October 2025
 
-Other        87 hrs 33 mins  ████████████████████████▒   97.49 %
-Bash         1 hr 39 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
-Terraform    32 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+Other        83 hrs 23 mins  ████████████████████████▒   96.99 %
+Bash         1 hr 46 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+Terraform    32 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+Markdown     13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 INI          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
