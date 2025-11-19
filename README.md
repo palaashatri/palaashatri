@@ -25,12 +25,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2025 - To: 16 November 2025
+From: 10 November 2025 - To: 17 November 2025
 
-Other     85 hrs 2 mins   ████████████████████████░   96.63 %
-Bash      2 hrs 50 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
-Java      5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-aspx-vb   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Other     88 hrs 29 mins  ████████████████████████░   96.10 %
+Bash      3 hrs 27 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
+Java      5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+aspx-vb   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
