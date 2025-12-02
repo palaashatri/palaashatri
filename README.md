@@ -25,11 +25,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 November 2025 - To: 29 November 2025
+From: 23 November 2025 - To: 30 November 2025
 
-Other   75 hrs 39 mins  ████████████████████████▓   99.28 %
-Bash    33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
-Groff   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Other   62 hrs 12 mins  ████████████████████████▓   99.12 %
+Bash    33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 ```
 
 <!--END_SECTION:waka-->
