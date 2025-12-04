@@ -19,7 +19,8 @@
     - [LinkedIn] : https://linkedin.com/in/palaasha 
 
 ```
-![23ddbf44-d288-4d3b-9490-31629a248a5b](https://github.com/user-attachments/assets/e8f7d8c9-2427-40a3-b819-73b167b77e19)
+![9a0faeda-98ab-4f35-b804-c740be2b4b8a](https://github.com/user-attachments/assets/34c3fcb8-147f-4e17-a667-5e0b987766bb)
+
 
 
 <!--START_SECTION:waka-->
