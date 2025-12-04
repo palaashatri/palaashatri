@@ -11,7 +11,7 @@
         validation and deployment tools using Python
 
 - [Tools]
-    - macOS, Arch Linux
+    - Windows, macOS, Fedora Workstation
     - Visual Studio Code
     - C++, Java, Python3
 
