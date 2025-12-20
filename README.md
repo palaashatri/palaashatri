@@ -26,13 +26,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 December 2025 - To: 17 December 2025
+From: 11 December 2025 - To: 18 December 2025
 
-Other   85 hrs 5 mins   █████████████████████▒░░░   84.92 %
-Bash    14 hrs 44 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.72 %
-Java    19 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-Groff   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-C       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Other   85 hrs 53 mins  █████████████████████▓░░░   86.04 %
+Bash    13 hrs 55 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.96 %
 ```
 
 <!--END_SECTION:waka-->
