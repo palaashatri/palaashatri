@@ -26,10 +26,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 December 2025 - To: 19 December 2025
+From: 13 December 2025 - To: 20 December 2025
 
-Other   89 hrs 42 mins  █████████████████████▓░░░   86.22 %
-Bash    14 hrs 19 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.78 %
+Other      80 hrs 20 mins  █████████████████████▒░░░   85.70 %
+Bash       11 hrs 46 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.57 %
+Python     1 hr 16 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+Markdown   21 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
