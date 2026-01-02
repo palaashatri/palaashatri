@@ -26,13 +26,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 December 2025 - To: 30 December 2025
+From: 24 December 2025 - To: 31 December 2025
 
-Other   30 hrs 42 mins  █████████████████░░░░░░░░   67.44 %
-Rust    14 hrs 41 mins  ████████░░░░░░░░░░░░░░░░░   32.25 %
-C       6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-C++     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-Groff   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Other   35 hrs 55 mins  █████████████████░░░░░░░░   67.76 %
+Rust    17 hrs 5 mins   ████████░░░░░░░░░░░░░░░░░   32.22 %
+Groff   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
