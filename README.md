@@ -26,10 +26,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 December 2025 - To: 31 December 2025
+From: 26 December 2025 - To: 02 January 2026
 
-Other   35 hrs 55 mins  █████████████████░░░░░░░░   67.76 %
-Rust    17 hrs 5 mins   ████████░░░░░░░░░░░░░░░░░   32.22 %
+Other   40 hrs 9 mins   ███████████████░░░░░░░░░░   60.36 %
+Rust    26 hrs 21 mins  ██████████░░░░░░░░░░░░░░░   39.62 %
 Groff   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
