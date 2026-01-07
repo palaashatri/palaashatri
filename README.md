@@ -26,11 +26,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 December 2025 - To: 04 January 2026
+From: 29 December 2025 - To: 05 January 2026
 
-Other   47 hrs 57 mins  ████████████████▓░░░░░░░░   67.24 %
-Rust    23 hrs 12 mins  ████████░░░░░░░░░░░░░░░░░   32.54 %
-Groff   9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Other   55 hrs 36 mins  ██████████████████▒░░░░░░   73.93 %
+Rust    19 hrs 22 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.77 %
+Groff   9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+YAML    4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Bash    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
