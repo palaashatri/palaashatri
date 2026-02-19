@@ -26,13 +26,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 February 2026 - To: 16 February 2026
+From: 10 February 2026 - To: 17 February 2026
 
-Other        60 hrs 18 mins        ███████████████████░░░░░░   75.39 %
-Bash         14 hrs 55 mins        ████▓░░░░░░░░░░░░░░░░░░░░   18.66 %
-Docker       4 hrs 29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
-C            11 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Other        70 hrs 43 mins        █████████████████████░░░░   84.32 %
+Bash         9 hrs 18 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.10 %
+Docker       3 hrs 45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
 YAML         2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Markdown     1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
