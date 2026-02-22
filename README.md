@@ -26,10 +26,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 February 2026 - To: 19 February 2026
+From: 13 February 2026 - To: 20 February 2026
 
-Other    74 hrs 53 mins        ██████████████████████░░░   88.34 %
-Bash     9 hrs 53 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 %
+Other    71 hrs 11 mins        ██████████████████████░░░   88.65 %
+Bash     9 hrs 6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.35 %
 Python   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
