@@ -26,13 +26,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 June 2026 - To: 23 June 2026
+From: 18 June 2026 - To: 25 June 2026
 
-Other             59 hrs 25 mins        █████████████████░░░░░░░░   68.41 %
-Markdown          7 hrs 51 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 %
-Kotlin            4 hrs 59 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
-Python            4 hrs 16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
-Java              4 hrs 4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
+Other             61 hrs 28 mins        █████████████████▒░░░░░░░   69.62 %
+Python            7 hrs 40 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
+Markdown          7 hrs 2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
+Kotlin            3 hrs 53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+Bash              3 hrs 29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
 ```
 
 <!--END_SECTION:waka-->
